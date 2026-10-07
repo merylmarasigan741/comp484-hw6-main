@@ -1,26 +1,35 @@
 /* Color Palette
-# - color 1
-# - color 2
-# - color 3
-# - color 4
+# - color 1: #17324D (Deep Navy)
+# - color 2: #526579 (Slate Blue)
+# - color 3: #DCEAF4 (Soft Blue)
+# - color 4: #F7F9FB (Off-White)
 */
 
 /* Global styles 
 ------------------------------------*/
 body {
     /* background: lightblue; */
+    background:#DCEAF4;
+
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
 header, footer{
+    background: #17324D;
+    color: #F7F9FB;
+}
+
+footer a{
+    color: #F7F9FB;
 }
 
 
 /* Work Experience
 ------------------------------------*/
 .work-experience{
+    background:#526579;
 }
 
 
@@ -28,5 +37,6 @@ header, footer{
 /* Education
 ------------------------------------*/ 
 .education{
+    background:#526579;
 }
 

@@ -18,7 +18,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             d. Add classes as needed.
             e. Adjust font colors if needed
 
-5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/) [DONE]
+5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/) 
 			a.	Go to the Google Fonts website explore and pick two web-safe fonts for your site
 			b.	The fonts you select will be added to a collection in the selected families. 
 			c. Copy the standard embed link. This should look familiar since it's using the same link tag we use to add our CSS file. This snippet will actually link to Google Style Sheet, and this is how the font families are loaded onto your webpage
