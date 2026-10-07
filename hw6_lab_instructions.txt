@@ -5,27 +5,27 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
 1.	Populate the index.html file [DONE]
 			a.	Take some time to customize your starter file and personalize the content.
 
-2.  Make appropiate css and images folders to store and link files..
+2.  Make appropiate css and images folders to store and link files.. [DONE]
 
-3.	Link external style sheet
+3.	Link external style sheet [DONE]
             a.	In the head of your page, use the link element to link to the styles.css file. Be sure to remember to define the styles.css relationship as stylesheet.
             b. Do a quick test just to make sure that the files are linked together properly. An example can be setting the background color.
 
-4. Pick a color pallete for your site. 
+4. Pick a color pallete for your site.  [DONE]
             a. Look online for a color pallete. 
             b. Copy and paste your color codes in the commented section in the styles.css file.
             c. In your styles.css file change the background color of each header, footer, work experience, and education section.
             d. Add classes as needed.
             e. Adjust font colors if needed
 
-5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/)
+5.	Pick two Google Fonts and add them to your site (https://fonts.google.com/) [DONE]
 			a.	Go to the Google Fonts website explore and pick two web-safe fonts for your site
 			b.	The fonts you select will be added to a collection in the selected families. 
 			c. Copy the standard embed link. This should look familiar since it's using the same link tag we use to add our CSS file. This snippet will actually link to Google Style Sheet, and this is how the font families are loaded onto your webpage
             d. Add the code snippet to the head section of your index file and put it right before the styles.css file.
             e. Now that our new fonts are loaded into the page, set a new default font family back in styles.css for body, h1, h2, etc. 
 
-6.  In your styles.css file
+6.  In your styles.css file [DONE]
             a. adjust the font size of your h1 and h2 tags so that it stands out more accordingly. 
             b. feel free to play around with the font family, or font sizes of the other headings or body text, as you wish
 

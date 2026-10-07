@@ -8,19 +8,25 @@
 /* Global styles 
 ------------------------------------*/
 body {
-    /*background: lightblue;*/
+    /* background: lightblue; */
 }
 
 
 /* Header & Footer 
 ------------------------------------*/
-
+header, footer{
+}
 
 
 /* Work Experience
 ------------------------------------*/
+.work-experience{
+}
 
 
 
 /* Education
-------------------------------------*/
+------------------------------------*/ 
+.education{
+}
+
