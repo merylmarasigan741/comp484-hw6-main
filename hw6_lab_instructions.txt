@@ -29,6 +29,6 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             a. adjust the font size of your h1 and h2 tags so that it stands out more accordingly. 
             b. feel free to play around with the font family, or font sizes of the other headings or body text, as you wish
 
-7. Add some font-weight properties
+7. Add some font-weight properties [DONE]
             a. In the Google Fonts site go back and take a look at the options for selecting different typefaces and font weights. After you've selected your font choices open the drawer and go to this Customize tab. Here you'll see options for different font weights. You can choose as many as you'd like but the more you choose, the more resources your page has to load. So only add what you need.
             b. copy the new embed code and update it to your html file.
