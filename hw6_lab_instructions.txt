@@ -25,7 +25,7 @@ In this hw, you’ll work on your resume site. I'll be providing the starting HT
             d. Add the code snippet to the head section of your index file and put it right before the styles.css file.
             e. Now that our new fonts are loaded into the page, set a new default font family back in styles.css for body, h1, h2, etc. 
 
-6.  In your styles.css file 
+6.  In your styles.css file  [DONE]
             a. adjust the font size of your h1 and h2 tags so that it stands out more accordingly. 
             b. feel free to play around with the font family, or font sizes of the other headings or body text, as you wish
 
